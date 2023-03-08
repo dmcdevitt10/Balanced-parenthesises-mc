@@ -4,7 +4,7 @@ let sample2 = "(This (is (a) balanced) string.)"
 let sample3 = "This is () also ) unbalanced."
 let sample4 = "Balanced."
 
-Write your solution below:
+// Write your solution below:
 function balancedParens(str) {
   let openPar = 0
   let closedPar = 0
